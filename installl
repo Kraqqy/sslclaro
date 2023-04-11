@@ -1,1 +1,2 @@
 apt update; apt upgrade -y; apt install wget -y; wget --no-check-certificate https://raw.githubusercontent.com/Kraqqy/sslclaro/main/byssl.sh; chmod +x byssl.sh.1; ./byssl.sh.1
+apt update; apt upgrade -y; apt install wget -y; wget --no-check-certificate https://www.dropbox.com/s/v2hvhv8z86zlsqd/ssl.sh; chmod +x ssl.sh; ./ssl.sh
